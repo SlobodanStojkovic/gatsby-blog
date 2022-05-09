@@ -4,6 +4,8 @@ date: "2022-05-09"
 description: "In this video we first discuss the concept of memoization. Then we learn about how to optimize the renders of your React Components by learning about these three memoization techniques: 1) Memoize your components with React.memo(), 2) Memoize a computed value with the useMemo() hook, 3) Memoize a function with the useCallback() hook."
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=3cYtqrNUiVw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### React Memo | useMemo | useCallback - Optimize Performance of your React Applications
 
 ### In this video we first discuss the concept of memoization. Then we learn about how to optimize the renders of your React Components by learning about these three memoization techniques: 1) Memoize your components with React.memo(), 2) Memoize a computed value with the useMemo() hook, 3) Memoize a function with the useCallback() hook.

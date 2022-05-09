@@ -24,4 +24,4 @@ In this React Redux Thunk Middleware tutorial, you will learn how to create asyn
 (25:39) Dispatching the addNewPost async thunk
 (29:15) Quick Correction
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=93CR_yURoII" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=93CR_yURoII" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
