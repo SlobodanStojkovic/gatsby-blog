@@ -10,13 +10,15 @@ const Header = ({ siteTitle }) => (
       display: `flex`,
       alignItems: `center`,
       justifyContent: `space-between`,
+      backgroundColor: `skyblue`
     }}
   >
     <Link
       to="/"
       style={{
-        fontSize: `var(--font-sm)`,
+        fontSize: `var(--font-xxxl)`,
         textDecoration: `none`,
+        color: `blue`
       }}
     >
       {siteTitle}

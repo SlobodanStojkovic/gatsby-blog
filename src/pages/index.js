@@ -19,17 +19,17 @@ const IndexPage = ({ data }) => {
     <Layout>
       <Seo title="Home" />
       <div>
-        <h1>Slobodan's Thoughts</h1>
-        <h4>{data.allMarkdownRemark.totalCount}</h4>
+        <h1>Slobodan's Blog Posts</h1>
+        <h4>This blog has {data.allMarkdownRemark.totalCount} posts.</h4>
         {data.allMarkdownRemark.edges.map(({ node }) => (
-          <div key={node.id}>
+          <ol key={node.id}>
             <BlogLink to={node.fields.slug}>
               <BlogTitle>
                 {node.frontmatter.title} - {node.frontmatter.date}
               </BlogTitle>
             </BlogLink>
             <p>{node.excerpt}</p>
-          </div>
+          </ol>
         ))}
       </div>
     </Layout>
