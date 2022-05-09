@@ -1,3 +1,9 @@
+# Slobodan's Blog
+
+## This Blog is created using GatsbyJS
+
+### You may find in it some insightful informations about programming.
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.com">
